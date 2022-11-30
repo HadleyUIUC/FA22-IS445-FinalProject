@@ -1,0 +1,1 @@
+[USGS Earthquake](https://earthquake.usgs.gov/earthquakes/search/)
